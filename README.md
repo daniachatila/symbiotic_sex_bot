@@ -5,4 +5,4 @@ danny d's first repository (in Berlin) !
 learning how to use git :~)
 
 
-![clit.prince logo](images/clit_prince.jpg)
+![clit.prince logo](images/clit_prince.JPG)
